@@ -8,7 +8,6 @@
     <version>1.5.0-SNAPSHOT</version>
     <name>swagger2word</name>
 
-
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
